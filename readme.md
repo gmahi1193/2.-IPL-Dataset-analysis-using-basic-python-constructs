@@ -1,0 +1,1 @@
+This project is for the understanding of use of list and dictionary.
